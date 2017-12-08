@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a61d6f17-12a9-423b-b8cd-e4de448eee75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/athena.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/serializer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/athena/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/athena/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/athena/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/athena/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-    </list>
+    <list default="true" id="a61d6f17-12a9-423b-b8cd-e4de448eee75" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
