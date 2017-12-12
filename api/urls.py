@@ -1,7 +1,6 @@
 from django.urls import path
-from api.views import home
-
+from .views import SchedulingView, SchedulingListView
 urlpatterns = [
-    path('/', home)
-
+    path('agendamentos/',  SchedulingListView.as_view()),
+    path('agendamento/<int:pk>/', SchedulingView.as_view()),
 ]

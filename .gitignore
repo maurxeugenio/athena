@@ -1,2 +1,5 @@
 .idea/
-
+*.pyc
+__pycache__
+__pycache__/*
+*.cpython-36.pyc
